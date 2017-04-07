@@ -1,0 +1,24 @@
+<!-- artist full description template -->
+<section class="container col-xs-10 col-xs-offset-1 marginTop marginBottom">
+	<div class="row">
+		<div class="col-md-10">
+			<h3>{{selectedArtist.Artist}}</h3>
+			<p> <i class="fa fa-calendar"></i> {{selectedArtist.Date}} - <i class="fa fa-clock-o"></i> {{selectedArtist.Time}}</p>
+			<p><i class="fa fa-building-o"></i> {{selectedArtist.Venue}} - <i class="fa fa-map-marker"></i> {{selectedArtist.AddressMap}} - {{selectedArtist.Neighborhood}}</p>
+			
+			<ul>
+			<li ng-repeat="links in selectedArtist.ArtistLinks" class="socialLinks">
+				<a target="_blank" href="{{links.link}}">{{links.link}}</a>
+			</li>
+			</ul>
+			<p ng-if="selectedArtist.CommunityCulturalPartner !== ''">
+				{{selectedArtist.CommunityCulturalPartner}} <a ng-if="selectedArtist.CulturalPartnerLinks !== ''" href="{{selectedArtist.CulturalPartnerLinks}}" target="_blank"><i class="fa fa-external-link"></i></a>
+				<span ng-if="selectedArtist.CulturalPartnerImg !== ''"><img src="{{selectedArtist.CulturalPartnerImg}}" style="max-height:100px;"></span>
+			</p>
+		    <p>{{selectedArtist.DescriptionEvent}}</p>
+			<p ng-if="selectedArtist.FoodVendor !== ''">
+				{{selectedArtist.FoodVendor}} - {{selectedArtist.FoodVendorAddress}}
+			</p>
+		</div>
+	</div>
+</section>

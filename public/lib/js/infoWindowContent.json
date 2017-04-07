@@ -1,0 +1,48 @@
+[
+     ["<div class='info_content'> <h3>Old Town School of Folk</h3> <p>4544 North Lincoln Ave</p> </div>"], 
+     ["<div class='info_content'> <h3>Buckingham Fountain</h3> <p>301 South Columbus</p> </div>"],
+     ["<div class='info_content'> <h3>DCASE Farmers Market Kickoff</h3> <p>Daley Plaza</p> </div>"],
+     ["<div class='info_content'> <h3>Polish Triangle Plaza</h3> <p>Ashland and Division</p> </div>"],
+     ["<div class='info_content'> <h3>Perez Plaza</h3> <p>4345 W 26th street</p> </div>"],
+
+     ["<div class='info_content'> <h3>World Refugee Day Celebration</h3> <p>Foster Beach Soccer Fields</p> </div>"],
+     ["<div class='info_content'> <h3>Garifuna Flava Restaurant</h3> <p>2518 West 63rd Street</p> </div>"],
+     ["<div class='info_content'> <h3>Jane Addams Hull House</h3> <p>UIC</p> </div>"],
+     ["<div class='info_content'> <h3>IMAN Farmers Market</h3> <p>IMAN (Inner City Muslim Action Network)</p> </div>"],
+     ["<div class='info_content'> <h3>Jackson Homan Plaza</h3> <p>Corner of West Jackson Blvd and South Homan Ave</p> </div>"],
+     
+     ["<div class='info_content'> <h3>Ping Tom Park</h3> <p>300 W 19th St, Chicago, IL 60616</p> </div>"],
+     ["<div class='info_content'> <h3>The Myron R. Szold Music & Dance Hall</h3> <p>4545 N Lincoln Ave, Chicago, IL 60625</p> </div>"],
+     ["<div class='info_content'> <h3>Fuller Park</h3> <p>331 W 45th St, Chicago, IL 60609</p> </div>"],
+     ["<div class='info_content'> <h3>Universal Alley Jazz Jam</h3> <p>1809 East 71st Street</p> </div>"],
+     ["<div class='info_content'> <h3>41st Street Beach</h3> <p>4100 S Lake Shore Dr, Chicago, IL 60653</p> </div>"],
+
+     ["<div class='info_content'> <h3>Mt Greenwood Park</h3> <p>3721 W 111th St, Chicago, IL 60655</p> </div>"],
+     ["<div class='info_content'> <h3>Pearl's Place Restaurant</h3> <p>3901 S Michigan Ave, Chicago, IL 60653</p> </div>"],
+     ["<div class='info_content'> <h3>McKinley Park</h3> <p>2210 W Pershing Rd, Chicago, IL 60609</p> </div>"],
+     ["<div class='info_content'> <h3>Baltimore Brainard Plaza</h3> <p>13220 S Baltimore Ave, Chicago, IL 60633</p> </div>"],
+     ["<div class='info_content'> <h3>Kelvyn Park</h3> <p>4438 W. Wrightwood, Chicago, IL 60639</p> </div>"],
+
+     ["<div class='info_content'> <h3>Beverly Arts Center</h3> <p>2407 W 111th St, Chicago, IL 60655</p> </div>"],
+     ["<div class='info_content'> <h3>Ethiopian Diamond I</h3> <p>6120 North Broadway Street, Chicago, IL 60660</p> </div>"],
+     ["<div class='info_content'> <h3>Englewood Jazz Festival</h3> <p>513 West 72nd Street, Chicago, IL 60621</p> </div>"],
+     ["<div class='info_content'> <h3>Midway Plaza</h3> <p>W Midway Park Chicago, IL 60644</p> </div>"],
+     ["<div class='info_content'> <h3>Bridge Museum Riverwalk</h3> <p>376 N Michigan Ave, Chicago, IL 60601</p> </div>"],
+     
+     ["<div class='info_content'> <h3>Corcorans</h3> <p>1615 N Wells St, Chicago, IL 60614</p> </div>"],
+     ["<div class='info_content'> <h3>Ogden Mall</h3> <p>Clark and Armitage</p> </div>"],
+     ["<div class='info_content'> <h3>Silver Room</h3> <p>1506 E 53rd St, Chicago, IL 60615</p> </div>"],
+     ["<div class='info_content'> <h3>Soul Vegetarian Cafe</h3> <p>203 East 75th Street, Chicago, IL 60619</p> </div>"],
+     ["<div class='info_content'> <h3>Yassa Restaurant</h3> <p>3511 S. King Dr, Chicago, IL 60653</p> </div>"],
+
+     ["<div class='info_content'> <h3>BING Arts Books</h3> <p>307 E Garfield Blvd, Chicago, IL 60637</p> </div>"],
+     ["<div class='info_content'> <h3>National Museum of Mexican Art</h3> <p>1852 W 19th St, Chicago, IL 60608</p> </div>"],
+     ["<div class='info_content'> <h3>Perez Plaza</h3> <p>4345 W 26th street</p> </div>"],
+     ["<div class='info_content'> <h3>Rizal Center</h3> <p>1332 W Irving Park Rd, Chicago, IL 60613</p> </div>"],
+     ["<div class='info_content'> <h3>Segundo Ruiz Cultural Center</h3> <p>4046 W Armitage Ave, Chicago, IL 60639</p> </div>"],
+
+     ["<div class='info_content'> <h3>Englewood Plaza</h3> <p>815 W 63rd St, Chicago, IL 60621</p> </div>"],
+     ["<div class='info_content'> <h3>Logan Center for the Arts - Univ. Of Chicago</h3> <p>915 E 60th St. 60637</p> </div>"],
+     ["<div class='info_content'> <h3>Martyrs</h3> <p>3855 N Lincoln Ave, Chicago, IL 60613</p> </div>"],
+     ["<div class='info_content'> <h3>Uptown Underground</h3> <p>4707 N Broadway St, Chicago, IL 60640</p> </div>"]
+]
