@@ -2,6 +2,7 @@
 77beats dev pkg
 
 git clone https://github.com/classicmatsuo/77beats
+
 npm install
 
 run 'gulp cssMinify' first
