@@ -1,7 +1,7 @@
 # 77beats
 ![77beats.org](https://raw.githubusercontent.com/classicmatsuo/77beats/master/readme.png)
 
-77beats dev pkg
+77beats is an Old Town School of Folk Music event across the city of Chicago. Through the use of Angular and Google Maps API, the two of them are tethered to convey the event's data and location.
 
 ## Getting started & Dev
 1. git clone `https://github.com/classicmatsuo/77beats`
